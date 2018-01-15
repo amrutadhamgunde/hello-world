@@ -2,4 +2,8 @@ text2 is here...
 
 modification in repo2 
 changes from repo2 for merge.
+<<<<<<< HEAD
 again changes from repo2 for merge.
+=======
+changes from repo1 for merge.
+>>>>>>> 7da48aad16be4d7935e8d8d12ebc77baf51b2945
